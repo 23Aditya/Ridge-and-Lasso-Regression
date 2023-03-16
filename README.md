@@ -6,4 +6,4 @@ L1 regularization, also known as the Lasso technique, is a method for regularizi
 ### L2 regularization
 L2 regularization is a type of regularization used to prevent overfitting in machine learning models. It works by adding a penalty term to the loss function of the model, which is the sum of the squares of the weights. This penalty term reduces the magnitude of the weights, resulting in a smoother model, which is less prone to overfitting. L2 regularization can also be used to reduce the number of parameters in the model, which helps reduce the amount of memory required for training.
 
-  ########################![L1 and L2 ](https://user-images.githubusercontent.com/68725514/225577739-35fb57be-a4e8-46d3-9e63-e3f1f6921bc8.jpg)
+                   ![L1 and L2 ](https://user-images.githubusercontent.com/68725514/225577739-35fb57be-a4e8-46d3-9e63-e3f1f6921bc8.jpg)
